@@ -6,7 +6,7 @@ repos:
 
 repositories:
   primary:
-    host: "hbb1.oscwii.org"
+    host: "localhost:81"
     name: "Open Shop Channel"
     description: "The official Open Shop Channel Homebrew Apps repository."
 
