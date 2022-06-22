@@ -7,7 +7,7 @@ repos:
 repositories:
   primary:
     host: "localhost:81"
-    name: "Open Shop Channel"
+    name: "Open Shop Channel testing"
     description: "The official Open Shop Channel Homebrew Apps repository."
 
   themes:
