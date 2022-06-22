@@ -6,7 +6,7 @@ repos:
 
 repositories:
   primary:
-    host: "localhost:81"
+    host: "192.168.0.6:81"
     name: "Open Shop Channel testing"
     description: "The official Open Shop Channel Homebrew Apps repository."
 
